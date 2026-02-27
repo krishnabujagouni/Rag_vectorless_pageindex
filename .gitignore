@@ -1,0 +1,34 @@
+# # Python-generated files
+# __pycache__/
+# *.py[oc]
+# build/
+# dist/
+# wheels/
+# *.egg-info
+
+# # Virtual environments
+# .venv
+# 2602.06039v1.pdf
+# pageindex_tree.json
+# .env/                ← contains your API keys
+# pageindex_tree.json ← large generated file
+# .venv/              ← virtual environment
+# __pycache__/ 
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Project specific
+2602.06039v1.pdf
+pageindex_tree.json
+
+# Secrets
+.env
